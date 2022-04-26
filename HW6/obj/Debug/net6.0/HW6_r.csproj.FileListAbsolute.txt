@@ -1,0 +1,15 @@
+/home/huhong/Documents/FM5222_HW/HW6_r/bin/Debug/net6.0/HW6_r
+/home/huhong/Documents/FM5222_HW/HW6_r/bin/Debug/net6.0/HW6_r.deps.json
+/home/huhong/Documents/FM5222_HW/HW6_r/bin/Debug/net6.0/HW6_r.runtimeconfig.json
+/home/huhong/Documents/FM5222_HW/HW6_r/bin/Debug/net6.0/HW6_r.dll
+/home/huhong/Documents/FM5222_HW/HW6_r/bin/Debug/net6.0/HW6_r.pdb
+/home/huhong/Documents/FM5222_HW/HW6_r/obj/Debug/net6.0/HW6_r.csproj.AssemblyReference.cache
+/home/huhong/Documents/FM5222_HW/HW6_r/obj/Debug/net6.0/HW6_r.GeneratedMSBuildEditorConfig.editorconfig
+/home/huhong/Documents/FM5222_HW/HW6_r/obj/Debug/net6.0/HW6_r.AssemblyInfoInputs.cache
+/home/huhong/Documents/FM5222_HW/HW6_r/obj/Debug/net6.0/HW6_r.AssemblyInfo.cs
+/home/huhong/Documents/FM5222_HW/HW6_r/obj/Debug/net6.0/HW6_r.csproj.CoreCompileInputs.cache
+/home/huhong/Documents/FM5222_HW/HW6_r/obj/Debug/net6.0/HW6_r.dll
+/home/huhong/Documents/FM5222_HW/HW6_r/obj/Debug/net6.0/refint/HW6_r.dll
+/home/huhong/Documents/FM5222_HW/HW6_r/obj/Debug/net6.0/HW6_r.pdb
+/home/huhong/Documents/FM5222_HW/HW6_r/obj/Debug/net6.0/HW6_r.genruntimeconfig.cache
+/home/huhong/Documents/FM5222_HW/HW6_r/obj/Debug/net6.0/ref/HW6_r.dll
